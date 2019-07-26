@@ -1,4 +1,4 @@
-##Summary of files in repository
+## Summary of files in repository
 
 AndroidCodingFrameAndTranscripts.pdf begins with the coding frame used in the android study.
 Then we summarize each trial with the coding frame. Each trial starts with the participant number,
